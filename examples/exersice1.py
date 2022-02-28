@@ -5,7 +5,7 @@ import altair as alt
 from itertools import cycle
 from st_aggrid import GridOptionsBuilder, AgGrid, GridUpdateMode, DataReturnMode, JsCode
 import FelixTestPy as felwholeData
-import DariusGeschicktes as darG
+import timeseriesVisualization as darG
 
 
 

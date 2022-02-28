@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.streamlit",
     "\\examples",
-    "\\examples\\DariusDimReduction",
     "\\st_aggrid",
     "\\st_aggrid\\frontend"
   ],
-  "SelectedNode": "\\examples\\exersice2SepsisGenderAge.py",
+  "SelectedNode": "\\examples\\vizualizationComponentGesichtert.py",
   "PreviewInSolutionExplorer": false
 }

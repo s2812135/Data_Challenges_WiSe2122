@@ -4,12 +4,12 @@ import numpy as np
 import altair as alt
 from itertools import cycle
 from st_aggrid import GridOptionsBuilder, AgGrid, GridUpdateMode, DataReturnMode, JsCode
-import FelixTestPy as felwholeData
-import DariusGeschicktes as darG
+import statProperties as felwholeData
+import timeseriesVisualization as darG
 import exersice2SepsisGender as simo2SepsisGender
 import exersice2SepsisGenderAge as simo2SepsisGenderAge
 import exersice2UnitSepsisGenderAge as simo3UnitSepsisGenderAge
-import exersice2Darius1 as dar1
+import exersice2DimRed as dar1
 from PIL import Image
 
 

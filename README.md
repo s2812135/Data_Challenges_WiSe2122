@@ -26,4 +26,4 @@ the psv files should be added to see the exact visualizations on the report.
 There are already some psv files included, but not all of the datasets. 
 
 If done correctly, the following will be displayed:
-![example image](webpage.png)
+![example image](https://github.com/s2812135/Data_Challenges_WiSe2122/webpage.png)
